@@ -1,1 +1,1 @@
-# Just a play around to build my website
+# Trying to build a personal website
